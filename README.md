@@ -4,7 +4,7 @@ Object detection app with Unity and Barracuda, just need a ONNX Model
 ## You will need
   - Unity 2019.4 (LTS) **[Link](https://unity3d.com/unity/qa/lts-releases?_ga=2.58722797.174822135.1598914732-159074198.1598457295)**
   - Barracuda 1.0.2 (already instlled via package manager)
-  - An ONNX mode, you will find one in the Assets/Model/model.onnx *(the model is trained to detect sneakers... but also detects chanclas)*
+  - An ONNX model, you will find one in the Assets/Model/model.onnx *(the model is trained to detect sneakers... but also detects chanclas)*
     - You can train your own models with **[Custom Vision](https://azure.microsoft.com/es-mx/services/cognitive-services/custom-vision-service/)**
 
 ## Based on
